@@ -13,7 +13,7 @@
   "dependencies": {
     "firebase-admin": "^11.5.0",
     "firebase-functions": "^4.2.1",
-    "unzipper":"0.9.11"
+    "unzipper":"0.10.11"
   },
   "devDependencies": {
     "tslint": "^5.12.0",
